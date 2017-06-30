@@ -1,0 +1,2 @@
+class Ramdom < ApplicationRecord
+end
